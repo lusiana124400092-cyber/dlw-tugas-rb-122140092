@@ -8,12 +8,12 @@ Tugas Workshop Deep Learning — Teknik Telekomunikasi ITERA.
 
 | Peran | Nama | NIM |
 |---|---|---|
-| Ketua | [Nama Lengkap] | [NIM] |
-| Anggota | [Nama Lengkap] | [NIM] |
-| Anggota | [Nama Lengkap] | [NIM] |
+| Ketua | Lusiana Maheswari | 124400092 |
+| Anggota | Kent Dzaki Abdi Guna Wijaya | 124400030 |
+| Anggota | David Hasudungan Lumbangaol | 124400004 |
 
-- **Kelas:** [RA / RB]
-- **Lokasi kelompok:** [kode] — [nama lokasi] (digit terakhir NIM terkecil)
+- **Kelas:**  RB
+- **Lokasi kelompok:** 4 — Politecnico di Milano
 - **Laporan:** [`laporan-latex/main.pdf` atau `laporan-typst/main.pdf`]
 
 ## Cara Menjalankan
